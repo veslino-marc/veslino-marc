@@ -1,22 +1,33 @@
 <h1 align="center">Hi 👋, I'm Marc Vesliño</h1>
-<h3 align="center">A passionate Full-Stack Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">A passionate Web Developer from the Philippines 🇵🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hey!+I'm+Marc+👋;Coding+Dreams+into+Reality+✨;React+%26+Next.js+Enthusiast+⚛️;AI+Integration+Specialist+🤖;Coffee-Powered+Developer+☕;Based+in+Manila,+Philippines+🇵🇭;Let's+Collaborate!+�" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Coding+Dreams+into+Reality+✨;Full-Stack+Web+Developer+💻;Turning+Ideas+into+Reality+🚀;Always+Learning+New+Technologies+📚;Coffee-Powered+Developer+☕;Based+in+Manila,+Philippines+🇵🇭;Let's+Collaborate!+🤝" alt="Typing SVG" />
 </p>
 
 ---
 
+<div align="center">
+
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year **IT Student** at **PUP-Taguig**
-- 💼 Specializing in **React, Next.js, Angular, and Spring Boot**
-- 🤖 Building **AI-powered applications** with Gemini AI
-- 🌱 Currently learning **advanced full-stack architectures**
-- 💬 Ask me about **React, Next.js, TypeScript, or Spring Boot**
-- 📫 Reach me at **marcveslino000@gmail.com**
-- 🌐 Portfolio: **[portfolio-website-marcveslino.vercel.app](https://portfolio-website-marcveslino.vercel.app)**
-- ⚡ Fun fact: I love building projects that solve real-world problems!
+🎓 3rd Year **IT Student** at **PUP-Taguig**
+
+💼 Specializing in **React, Next.js, Angular, and Spring Boot**
+
+🤖 Building **AI-powered applications** with Gemini AI
+
+🌱 Currently learning **advanced full-stack architectures**
+
+💬 Ask me about **React, Next.js, TypeScript, or Spring Boot**
+
+📫 Reach me at **marcveslino000@gmail.com**
+
+🌐 Portfolio: **[portfolio-website-marcveslino.vercel.app](https://portfolio-website-marcveslino.vercel.app)**
+
+⚡ Fun fact: I love building projects that solve real-world problems!
+
+</div>
 
 ---
 
@@ -69,6 +80,8 @@
 
 ### 🛠️ Tech Stack
 
+<div align="center">
+
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -80,6 +93,7 @@
 #### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -87,12 +101,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### AI & APIs
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</div>
 
 ---
 
@@ -117,10 +129,10 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veslino-marc&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veslino-marc&theme=tokyo-night&hide_border=true&area=true" alt="Activity Overview"/>
 </p>
 
 ---
