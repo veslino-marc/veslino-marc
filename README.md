@@ -2,7 +2,7 @@
 
 # Hi there, I'm Marc Vesliño 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Coding+Dreams+into+Reality;Full-Stack+Web+Developer;Turning+Ideas+into+Reality+🚀;Always+Learning+New+Technologies;Coffee-Powered+Developer+☕;Based+in+Manila%2C+Philippines+🇵🇭;Let's+Collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Coding+Dreams+into+Reality;Full-Stack+Web+Developer;Turning+Ideas+into+Reality+🚀;Always+Learning+New+Technologies;Coffee-Powered+Developer+☕;Based+in+Taguig%2C+Philippines+🇵🇭;Let's+Collaborate!)](https://git.io/typing-svg)
 
 ### 3rd Year IT Student | Web Developer | Problem Solver
 
@@ -16,7 +16,7 @@ I'm a passionate **3rd year IT student** at PUP-Taguig, specializing in **full-s
 
 ```typescript
 const marc = {
-    location: "Manila, Philippines 🇵🇭",
+    location: "Taguig, Philippines 🇵🇭",
     education: "PUP-Taguig | BS Information Technology",
     currentFocus: ["AI Integration", "Full-Stack Development", "Cloud Technologies"],
     interests: ["Web Development", "Mobile Apps", "System Design", "UI/UX"],
