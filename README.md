@@ -17,7 +17,7 @@ I'm a passionate **3rd year IT student** at PUP-Taguig, specializing in **full-s
 ```typescript
 const marc = {
     location: "Taguig, Philippines 🇵🇭",
-    education: "PUP-Taguig | BS Information Technology",
+    education: "PUP-Taguig | Diploma in Information Technology",
     currentFocus: ["AI Integration", "Full-Stack Development", "Cloud Technologies"],
     interests: ["Web Development", "Mobile Apps", "System Design", "UI/UX"],
     funFact: "I debug with coffee and solve problems with code ☕💻"
