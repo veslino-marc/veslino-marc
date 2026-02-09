@@ -18,7 +18,7 @@ I'm a passionate **3rd year IT student** at PUP-Taguig, specializing in **full-s
 const marc = {
     location: "Taguig, Philippines 🇵🇭",
     education: "PUP-Taguig | Diploma in Information Technology",
-    currentFocus: ["AI Integration", "Full-Stack Development", "Cloud Technologies"],
+    currentFocus: ["Full-Stack Development", "AI Integration", "Cloud Technologies"],
     interests: ["Web Development", "Mobile Apps", "System Design", "UI/UX"],
     funFact: "I debug with coffee and solve problems with code ☕💻"
 };
